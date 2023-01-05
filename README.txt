@@ -37,3 +37,5 @@ Credits:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
 Also referenced: https://towardsdatascience.com/how-to-create-a-stunning-personal-portfolio-website-for-free-50ec15b059dd
+
+Edits by Amelia Aplikowski
